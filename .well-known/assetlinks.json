@@ -1,0 +1,23 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mrkutapp.memorygarden",
+      "sha256_cert_fingerprints": [
+        "49:AC:FF:B1:F7:AB:AF:C3:43:D4:85:00:48:9C:CF:61:F5:29:9B:57:01:54:B8:24:60:8C:EB:F2:B7:3D:E6:8C",
+        "1F:DE:7C:1E:5E:A0:B3:70:91:CB:44:44:A2:66:9D:ED:1B:7E:28:02:A8:FD:7E:72:A4:4A:42:50:D7:36:C4:EF"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mrkutapp.memorygarden.debug",
+      "sha256_cert_fingerprints": [
+        "5A:80:37:ED:8F:51:61:8B:BD:56:F5:C6:96:D6:92:5E:F1:E6:0D:59:89:4F:D5:7A:78:78:A3:44:6C:31:6B:87"
+      ]
+    }
+  }
+]
